@@ -1,0 +1,8 @@
+name: WarlockBrawl
+version: ${project.version}
+main: com.raginox.warlockbrawl.WarlockBrawl
+api-version: 1.13
+softdepend: [Vault]
+authors: [raginox]
+description: WarlockBrawl
+website: www.raginox.com
